@@ -1,0 +1,13 @@
+.mt-20 {
+	margin-top: 30px
+}
+footer{
+	height: 80px;
+	margin-top: 50px;
+}
+footer>.container, footer .row {
+	height: 100%;
+}
+h5 {
+  font-size: 70px;
+}
